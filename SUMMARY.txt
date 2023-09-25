@@ -1,0 +1,113 @@
+TODO: Complete the following after you have COMPLETED your project.
+
+1. You are required to make a video for your project, as described in detail at:
+     https://docs.google.com/document/d/13O-pElAg8XwNEMFnpGXIvYZYg82xIaMHytRhTE3PHKs/edit?usp=sharing
+
+   Be sure that your video meets the requirements per the above link!
+   Be sure that your video is visible to your instructors!
+
+   What is the URL of your video?
+     [PUT YOUR ANSWER HERE, using as many lines as you need.]
+     https://youtu.be/aMf-QdxBTvM
+
+2. List the names of the team members for your project.
+
+     [PUT YOUR ANSWER HERE, using as many lines as you need.]
+     Garrett Doolittle, Yueyang Chen, Austin Frisk
+3. Explain briefly what your project does and how it works.
+
+     [PUT YOUR ANSWER HERE, using as many lines as you need.]
+     Our project is a dungeon crawler game that works by entering new rooms through doors. Each room you enter has a
+     random amount of enemies rocks and a chance to spawn an item. These items can boost your stats but some also reduce
+     other stats as a sort of trade off. Watch out because some doors are secret one way tunnels that you can't
+     go back through the other way. After twenty rooms you have the option to fight a boss by going through the distinct
+     boss door. After entering the boss room there is no option to leave the boss door, and you are done with that floor
+     If you beat the boss you go to the next floor and each time you beat the boss he gets harder. After 3
+     floors you beat the game but have the option to continue playing more floors for fun. There are multiple characters
+     you can start as with the main character being garrett and others being group members and other friends. There is
+     also the option to resize the screen to windowed fullscreen which works well if you have a 16:10 display otherwise
+     the bottom of the game goes behind the taskbar, and you have to play in the windowed version of the game.
+
+4. List the names of the classes in your project,
+   identifying who was the primary author(s) for each.
+
+     [PUT YOUR ANSWER HERE, using as many lines as you need.]
+     the different classes for our project with the main contributors are:
+     Enemy - Yueyang
+     Game - Garrett
+     Game_Over - Yueyang
+     Garrett - Garrett
+     Items - Yueyang
+     Laser - Garrett
+     Projectile - Austin
+     Rock - Austin
+     Room - Garrett
+     Roomselect - Garrett
+     Start_Up - Austin
+     win_screen - Yueyang
+
+
+5. List the essential features of your game, as written in your
+   Project Description, identifying who was the primary author(s) for each.
+   (For features that you did not implement, if any, indicate so.)
+
+     [PUT YOUR ANSWER HERE, using as many lines as you need.]
+     Characters - Garrett
+     projectiles - Yueyang
+     rooms = Garrett
+     restart menu - Austin, Yueyang, Garrett
+     win screen - Austin, Yueyang, Garrett
+     start menu - Austin, Yueyang, Garrett
+     enemies and boss - Yueyang
+
+
+
+6. List the additional features of your game that you implemented,
+   identifying who was the primary author(s) for each.
+
+     [PUT YOUR ANSWER HERE, using as many lines as you need.]
+     rock - austin
+     laser - yueyang
+     floors - garrett
+     screen sizing - garrett
+
+
+7. List the external modules (libraries) that you used.
+     -- That is, list all the modules in IMPORT statements in your project.
+     -- But do NOT include here the modules that you listed in #3 above,
+          since they are INTERNAL to your project.
+
+     [PUT YOUR ANSWER HERE, using as many lines as you need.]
+     random
+     math
+
+8. List all media items (images, music, other graphics, etc)
+   that are not your own, and their sources (e.g. URLs).
+   [If you no longer know the source, indicate so.]
+
+     [PUT YOUR ANSWER HERE, using as many lines as you need.]
+   pokemon fire red charmander "https://www.nicepng.com/ourpic/u2e6e6y3r5w7i1a9_read777-studios-i-curate-pokemon-fire-red/"
+   cat pixelart pfp ""https://www.zazzle.com/orange_cat_pixel_art_postcard-239481557656215043""
+   anime girl"https://www.nicepng.com/s/animegirl/"
+   background sound "https://freesound.org/people/yummie/sounds/410574/"
+   beer "I no longer know the source"
+   calculator "https://www.freepik.com/premium-vector/pixel-art-back-school-accessories-set-8bit_4790151.htm"
+   cat sound "https://orangefreesounds.com/sound-effects/animal-sounds/cat-meow-sound/"
+   coffee "https://www.pinterest.com/pin/music-pixel-tshirts-socks-robot-juice-pixelated-coffee-shirt--102808803967537309/"
+   computer"https://www.freepik.com/premium-vector/pixel-art-back-school-accessories-set-8bit_4790151.htm"
+   crunch sound "https://bigsoundbank.com/search?q=crunch"
+   gun "I cropped it from the game pixel gun 3d"
+   minecraft oof "https://quicksounds.com/uploads/tracks/1132556953_41200163_1521785094.mp3"
+   powerup sound "https://www.soundsnap.com/tags/power_up?filters=dm9jYWIudGFnLm5hbWUlM0ElM0QlNjBwb3dlcit1cCU2MCslMjYlMjYrcHVibGlzaGVkJTNBJTNEKzErJTI2JTI2K3R5cGUlM0ElNUIlNjBhdWRpbyU2MCU1RA%3D%3D&otherfilter=dm9jYWIudGFnLm5hbWUlM0ElM0QlNjBwb3dlcit1cCU2MA%3D%3D&sorting=1&page=1&maxaudio=288&filteredTags=cG93ZXIrdXA%3D&searchTerm=cG93ZXIgdXA%3D"
+   shoe "https://www.nicepng.com"
+   trigon "https://teen-titans-go.fandom.com/wiki/Trigon"
+   hearts "https://www.shutterstock.com/search/minecraft-heart"
+   binding of isaac sprites ""https://www.spriters-resource.com/pc_computer/bindingofisaacrebirth/""
+
+
+
+9. [Optional] Add anything here that would help us assess your
+   project fairly, beyond what you already said/showed in your video.
+
+     [PUT YOUR ANSWER HERE, using as many lines as you need.]
+     Yueyang's and garrett's efforts in drawing the sprites
